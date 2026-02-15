@@ -1,0 +1,1 @@
+DAILY_BUDGET = 100.0  # USD

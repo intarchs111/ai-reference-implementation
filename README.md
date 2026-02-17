@@ -50,7 +50,7 @@ The following are excluded to keep the example simple and focused:
 
 
 ### Run Locally
-
+[![ai-reference-implementation](https://img.shields.io/badge/GitHub-ai--reference--implementation-purple?style=flat&logo=github)](https://github.com/intarchs111/ai-gateway)
 
 ```bash
 git clone https://github.com/intarchs111/ai-reference-implementation.git
@@ -128,13 +128,10 @@ Once exceeded, expected response:
 ```bash
 Exception: Daily budget exceeded
 ```
-
-
+##
 <div align="center">
 
-##
-
-#### **Suyog Hire** - **Solutions Architect**
+### **Suyog Hire** | **AI Solutions Architect**
 [![github-profile](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github)](https://github.com/intarchs111) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/suyoghire)
 
 </div>
